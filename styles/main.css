@@ -59,7 +59,7 @@ body {
  .links-container .navbar-link:hover {
      color: rgb(233,50,117);
  }
- ...
+
 /* Medium and small screens (640px) */
  @media (min-width: 640px) {
    /* Style information will go here */
