@@ -53,9 +53,8 @@ body {
      /* #3 */
      text-decoration: none;
      cursor: pointer;
- }
+ g}
  
-   /* #5 */
 
 .links-container .navbar-link:hover {
      color: rgb(233,50,117);
