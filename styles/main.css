@@ -30,6 +30,9 @@ body {
  @media (min-width: 1024px) {
    /* Style information will go here */
  }
+.links-contatiner.navbar-ink:active{
+    background-color: white;
+}
  .container {
      margin: 0 auto;
      max-width: 64rem;
