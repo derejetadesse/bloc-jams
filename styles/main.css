@@ -15,7 +15,6 @@ body {
 .navbar {
      position: relative;
      padding: 0.5rem;
-     background-color: rgb(101,18,95);
      /* #1 */
      background-color: rgba(101,18,95,0.5);
      /* #2 */
@@ -61,10 +60,6 @@ body {
  .links-container .navbar-link:hover {
      color: rgb(233,50,117);
  }
-.links-container .navbar-link:active {
-     background-color: white;
- }
- 
 /* Medium and small screens (640px) */
  @media (min-width: 640px) {
    /* Style information will go here */
