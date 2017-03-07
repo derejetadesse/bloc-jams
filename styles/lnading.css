@@ -26,7 +26,7 @@ body.landing {
  }
 .selling-points {
      position: relative;
-    
+        
 }
 
  .point {
@@ -45,9 +45,7 @@ body.landing {
 
      transition-delay: 0.2s;
  }
- checkpoint-8-DOM-Scripting-Animation
- }
- 
+  
  .point .point-title {
      font-size: 1.25rem;
  }
